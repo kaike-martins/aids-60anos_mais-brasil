@@ -8,6 +8,8 @@ Análise epidemiológica completa sobre a evolução dos casos de AIDS em pessoa
 
 O envelhecimento populacional brasileiro trouxe consigo um fenômeno pouco discutido: o crescimento expressivo dos casos de AIDS entre idosos. Este projeto busca quantificar e compreender essa tendência a partir de dados oficiais do DATASUS e do IBGE, oferecendo uma visão regional, temporal e por sexo da epidemia nessa faixa etária.
 
+> **Nota sobre os dados:** todos os dados utilizados neste projeto são integralmente públicos, provenientes do DATASUS/SINAN e do IBGE. Não há qualquer informação confidencial ou identificação individual em nenhum dos arquivos.
+
 ---
 
 ## 🎯 Perguntas respondidas
