@@ -2,6 +2,12 @@
 
 Análise epidemiológica completa sobre a evolução dos casos de AIDS em pessoas com 60 anos ou mais no Brasil, cobrindo o período de 2010 a 2024. O projeto foi desenvolvido como atividade acadêmica no curso de Ciência de Dados da FMU São Paulo e resultou em um convite para co-autoria em artigo científico pela professora orientadora.
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Fonte](https://img.shields.io/badge/Fonte-SINAN%2FDATASUS_%2B_IBGE-4B1D72?style=flat-square)
+
 ---
 
 ## 📋 Contexto
