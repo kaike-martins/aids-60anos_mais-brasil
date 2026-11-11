@@ -77,7 +77,8 @@ aids-60anos_mais-brasil/
 │   ├── aids_60mais_total.csv              # Casos por ano (DATASUS)
 │   ├── aids_60mais_sexo.csv               # Casos por sexo
 │   ├── aids_60mais_regiao.csv             # Casos por região
-│   └── aids_60mais_estado.csv             # Casos por estado
+│   ├── aids_60mais_estado.csv             # Casos por estado
+│   └── aids_60mais_taxa_incidencia.csv    # Casos, população 60+ e taxa por 100 mil (Brasil e regiões, 2010–2024)
 │
 ├── analise/
 │   └── analise_aids_60mais.xlsx           # Análise completa, notas metodológicas e a população do IBGE (aba pop_cru_60mais)
@@ -102,7 +103,7 @@ aids-60anos_mais-brasil/
 taxa = (casos no ano ÷ população de 60 anos ou mais no ano) × 100.000
 ```
 
-A taxa foi calculada para o Brasil e para cada região, com a população da respectiva região.
+A taxa foi calculada para o Brasil e para cada região, com a população da respectiva região. O resultado, ano a ano, está em [`dados/aids_60mais_taxa_incidencia.csv`](dados/aids_60mais_taxa_incidencia.csv).
 
 **Tratamento no Excel.** Importação de 4 arquivos CSV via Power Query, com tratamento de encoding UTF-8, remoção de linhas de total e registros inconsistentes, e criação de coluna de Total calculada em tabela estruturada.
 
