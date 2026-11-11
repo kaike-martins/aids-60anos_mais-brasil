@@ -16,8 +16,8 @@ Análise epidemiológica sobre a evolução dos casos de AIDS em pessoas com 60 
 
 - **Área/subárea:** Ciências Exatas, da Terra e Agrárias / Estatística
 - **Categoria:** Concluído, com apresentação oral online em 11/11/2026
-- **Artigo (PDF):** [`artigo/conic-2026-artigo.pdf`](authsession-0000280087-inputfile-trabalhoarquivo.pdf)
-- **Slides:** [`apresentacao/conic-2026-apresentacao.pdf`](conic-2026-apresentacao-kaike.pdf)
+- **Artigo (PDF):** [`artigo/conic-2026-artigo.pdf`](artigo/conic-2026-artigo.pdf)
+- **Slides:** [`apresentacao/conic-2026-apresentacao.pdf`](apresentacao/conic-2026-apresentacao.pdf)
 
 ---
 
